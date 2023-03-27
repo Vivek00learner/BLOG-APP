@@ -1,0 +1,21 @@
+Blog Application :
+
+Landing page (Homepage)
+Categories (Static)
+Create/Add Blog
+Read Blog
+Update/Edit Blog
+Delete Blog
+
+----------------------------------
+
+Advanced level : 
+Login System
+Dashboard
+Register/Login 
+    -> Dashboard
+    -> Create/Add Blog
+       Read Blog
+       Update/Edit Blog
+       Delete Blog
+    -> Logout
